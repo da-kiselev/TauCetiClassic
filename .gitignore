@@ -11,3 +11,4 @@ data/
 cfg/
 .vscode
 **/MapFXDrawer/*.png
+code/game/objects/items/weapons/spawn_item.dm
